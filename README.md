@@ -15,4 +15,4 @@ What is Shredding ?
 
 When it comes to computers and data, recycling leaves traces of information on storage drives that can be retrieved using special software. However, this scenario can be avoided by "shredding" data rather than simply emptying your recycle bin.
 
-The Utility is available in Python3 and as a Binary executable, compiled for x86 CPUs
+The Utility is written in Python3 and requires OpenSSL installed.
